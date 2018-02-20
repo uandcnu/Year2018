@@ -8,5 +8,7 @@ public class DemoMarApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DemoMarApplication.class, args);
+		
+		System.out.println("pqr");
 	}
 }
