@@ -11,5 +11,7 @@ public class DemoMarApplication {
 		
 		System.out.println("pqr");
 		System.out.println("pqr12");
+		System.out.println("all mar");
 	}
+	
 }

@@ -11,5 +11,7 @@ public class DemoJanApplication {
 		System.out.println("def");
 		
 		System.out.println("def123");
+		
+		System.out.println("all jan");
 	}
 }
