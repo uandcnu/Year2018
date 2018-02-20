@@ -10,5 +10,6 @@ public class DemoMarApplication {
 		SpringApplication.run(DemoMarApplication.class, args);
 		
 		System.out.println("pqr");
+		System.out.println("pqr12");
 	}
 }
